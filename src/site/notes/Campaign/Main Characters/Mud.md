@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/main-characters/mud/"}
+{"dg-publish":true,"permalink":"/campaign/main-characters/mud/","dgPassFrontmatter":true}
 ---
 
 *Character Sheet: [[Mud.pdf]]*

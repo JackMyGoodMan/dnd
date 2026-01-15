@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/main-characters/vio-feran/"}
+{"dg-publish":true,"permalink":"/campaign/main-characters/vio-feran/","dgPassFrontmatter":true}
 ---
 
 *Character Sheet: [[Sep Tember.pdf]] - (not done yet)*

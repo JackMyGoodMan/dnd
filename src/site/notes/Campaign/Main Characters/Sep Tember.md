@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/main-characters/sep-tember/"}
+{"dg-publish":true,"permalink":"/campaign/main-characters/sep-tember/","dgPassFrontmatter":true}
 ---
 
 *Character Sheet: [[Sep Tember.pdf]] - (not done yet)*

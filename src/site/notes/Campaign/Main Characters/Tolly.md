@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/main-characters/tolly/"}
+{"dg-publish":true,"permalink":"/campaign/main-characters/tolly/","dgPassFrontmatter":true}
 ---
 
 *Character Sheet: [[Tolly.pdf]]*
