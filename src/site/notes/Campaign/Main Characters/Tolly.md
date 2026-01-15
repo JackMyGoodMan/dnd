@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/campaign/main-characters/tolly/"}
 ---
 
-#  
 *Character Sheet: [[Tolly.pdf]]*
 
 # Goals and Motivations

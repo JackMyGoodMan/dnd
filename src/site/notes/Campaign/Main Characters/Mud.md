@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/campaign/main-characters/mud/"}
 ---
 
-#  
 *Character Sheet: [[Mud.pdf]]*
 
 # Goals and Motivations

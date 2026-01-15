@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/campaign/main-characters/vio-feran/"}
 ---
 
-#  
 *Character Sheet: [[Sep Tember.pdf]] - (not done yet)*
 
 # Goals and Motivations
