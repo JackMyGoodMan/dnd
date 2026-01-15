@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/campaign/main-characters/mud/","dgPassFrontmatter":true}
 ---
 
-*Character Sheet: [[Mud.pdf]]*
+*Character Sheet: [[Game/Character Sheets/Mud Character Sheet\|Mud Character Sheet]]*
 
 # Goals and Motivations
 Find [[Campaign/Other Characters/Backstory NPC's/Hero\|Hero]] 

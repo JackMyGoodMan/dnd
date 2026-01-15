@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/campaign/main-characters/sep-tember/","dgPassFrontmatter":true}
 ---
 
-*Character Sheet: [[Sep Tember.pdf]] - (not done yet)*
+*Character Sheet: [[Game/Character Sheets/Sep Tember Character Sheet\|Sep Tember Character Sheet]] - (not done yet)*
 
 # Goals and Motivations
 Currently Adventuring in the [[Campaign/Locations/The Sunless Citadel\|The Sunless Citadel]] with the party.

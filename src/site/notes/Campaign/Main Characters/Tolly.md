@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/campaign/main-characters/tolly/","dgPassFrontmatter":true}
 ---
 
-*Character Sheet: [[Tolly.pdf]]*
+*Character Sheet: [[Game/Character Sheets/Tolly Character Sheet\|Tolly Character Sheet]]*
 
 # Goals and Motivations
 Currently Adventuring in the [[Campaign/Locations/The Sunless Citadel\|The Sunless Citadel]] with the party.
